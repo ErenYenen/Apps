@@ -1,0 +1,10 @@
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap29_sirasizde\kitap29_sirasizde\bin\Debug\kitap29_sirasizde.exe.config
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap29_sirasizde\kitap29_sirasizde\bin\Debug\kitap29_sirasizde.exe
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap29_sirasizde\kitap29_sirasizde\bin\Debug\kitap29_sirasizde.pdb
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap29_sirasizde\kitap29_sirasizde\obj\Debug\kitap29_sirasizde.csproj.AssemblyReference.cache
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap29_sirasizde\kitap29_sirasizde\obj\Debug\kitap29_sirasizde.Form1.resources
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap29_sirasizde\kitap29_sirasizde\obj\Debug\kitap29_sirasizde.Properties.Resources.resources
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap29_sirasizde\kitap29_sirasizde\obj\Debug\kitap29_sirasizde.csproj.GenerateResource.cache
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap29_sirasizde\kitap29_sirasizde\obj\Debug\kitap29_sirasizde.csproj.CoreCompileInputs.cache
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap29_sirasizde\kitap29_sirasizde\obj\Debug\kitap29_sirasizde.exe
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap29_sirasizde\kitap29_sirasizde\obj\Debug\kitap29_sirasizde.pdb
