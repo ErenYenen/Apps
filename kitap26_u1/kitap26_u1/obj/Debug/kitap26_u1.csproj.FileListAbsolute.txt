@@ -1,0 +1,10 @@
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap26_u1\kitap26_u1\bin\Debug\kitap26_u1.exe.config
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap26_u1\kitap26_u1\bin\Debug\kitap26_u1.exe
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap26_u1\kitap26_u1\bin\Debug\kitap26_u1.pdb
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap26_u1\kitap26_u1\obj\Debug\kitap26_u1.csproj.AssemblyReference.cache
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap26_u1\kitap26_u1\obj\Debug\kitap26_u1.Form1.resources
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap26_u1\kitap26_u1\obj\Debug\kitap26_u1.Properties.Resources.resources
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap26_u1\kitap26_u1\obj\Debug\kitap26_u1.csproj.GenerateResource.cache
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap26_u1\kitap26_u1\obj\Debug\kitap26_u1.csproj.CoreCompileInputs.cache
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap26_u1\kitap26_u1\obj\Debug\kitap26_u1.exe
+C:\Users\EREN\OneDrive\Desktop\uygulamalar\kitap26_u1\kitap26_u1\obj\Debug\kitap26_u1.pdb
